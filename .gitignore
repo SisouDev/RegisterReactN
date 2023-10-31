@@ -44,3 +44,7 @@ babel.config.js
 app.json
 
 .vscode/
+
+tsconfig.json
+.expo-shared/
+README.md
